@@ -3,7 +3,7 @@
 Nachschlagewerk zum Schulrecht in Thüringen für Lehramtsanwärter:innen, Lehrkräfte und Fachleitungen.
 Jeder Eintrag besteht aus Kurzantwort, wörtlichem Normzitat mit Fundstelle und Fassungsstand und einem Praxishinweis.
 
-- 158 Einträge in elf Modulen, 34 Übungsfälle, Quiz, Lernkarten, 16 Kopiervorlagen, 22 Normtexte im Volltext
+- 173 Einträge in elf Modulen, 34 Übungsfälle, Quiz, Lernkarten, 16 Kopiervorlagen, 22 Normtexte im Volltext
 - Volltextsuche mit Alltagsbegriffen, Update-Radar für offene und ungeklärte Punkte
 - eine einzige HTML-Datei, läuft offline im Browser, ohne Konto, ohne Server
 
